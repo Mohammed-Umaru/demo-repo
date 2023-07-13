@@ -1,3 +1,3 @@
 #DEMO
 
-Some Description has been installed
+Some Description has been installed!
